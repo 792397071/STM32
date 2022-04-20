@@ -1,0 +1,9 @@
+/**
+* @version   软件V1.4 兼容硬件V1.4 和V1.5
+* @note      视频资料链接：https://space.bilibili.com/434192043
+*            感谢正点原子团队，本工程参考大量正点原子例程
+             内部教学使用，禁止商用目的散播，尊重原作者的劳动成果，才能带来更好的作品
+*
+*
+***********************************************************/
+https://www.bilibili.com/video/BV1SY411L7rJ?spm_id_from=333.337.search-card.all.click
